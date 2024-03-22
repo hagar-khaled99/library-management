@@ -52,5 +52,5 @@ https://drive.google.com/file/d/1XP8kbevhNaP5FtJk-pM_UKpx06hTVWu_/view?usp=shari
 4. Explore the application functionalities through the provided API collection.
 
  ## Database Schema
-![Screenshot (269)](https://github.com/hagar-khaled99/library-management-system/assets/164077914/abbe91a2-eb0f-4c77-a8bb-27c1769377a5)
+![Screenshot (269)](https://github.com/hagar-khaled99/library-management/assets/164077914/00cc821b-e658-4923-af3a-342c62f2769b)
 
