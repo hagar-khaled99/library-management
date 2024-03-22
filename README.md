@@ -13,7 +13,7 @@ Make sure you have the following installed on your machine:
 
 1. Clone the repository:
 ```
-git clone https://github.com/hagar-khaled99/library-management-system.git
+git clone https://github.com/hagar-khaled99/library-management.git
 ```
 2.Install dependencies
 ```
